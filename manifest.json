@@ -1,0 +1,20 @@
+{
+  "name": "樱丘学园 · 七夜怪谈",
+  "short_name": "七夜怪谈",
+  "description": "日式校园怪谈视觉小说。11张手绘插画、32条可调查线索、真人配音与环境音效，八集连播。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "fullscreen"],
+  "orientation": "portrait",
+  "background_color": "#0e0814",
+  "theme_color": "#0e0814",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
